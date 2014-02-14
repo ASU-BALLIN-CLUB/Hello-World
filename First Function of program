@@ -7,3 +7,4 @@ Call fgets(source_file);
 Return true;
 Else
 Return false;
+#cool#
