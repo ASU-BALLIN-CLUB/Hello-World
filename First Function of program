@@ -1,0 +1,9 @@
+Function name: Init_lister(argv[1], source_file)
+source_name=argv[1];
+string date, time;
+Function name: boolean get_source_line(source_file)
+If- reads and prints line
+Call fgets(source_file);
+Return true;
+Else
+Return false;
